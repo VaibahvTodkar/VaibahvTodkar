@@ -30,16 +30,16 @@ I’m open to collaborating on **Open Source Projects**.
 - NLP
 
 ### 📊 **My GitHub Stats**  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=VaibhavTodkar&show_icons=true&count_private=true&hide=prs&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=VaibahvTodkar&show_icons=true&count_private=true&hide=prs&theme=radical)
 
 ### 📈 **Top Languages**
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=VaibhavTodkar&layout=compact&langs_count=10&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=VaibahvTodkar&layout=compact&langs_count=10&theme=radical)
 
 ### 📅 **GitHub Streak**
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=VaibhavTodkar&theme=radical)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=VaibahvTodkar&theme=radical)
 
 ### 📈 **My Contribution Graph**
-![GitHub Contribution Graph](https://github-readme-stats.vercel.app/api?username=VaibhavTodkar&hide_title=true&count_private=true&show_icons=true&theme=radical)
+![GitHub Contribution Graph](https://github-readme-stats.vercel.app/api?username=VaibahvTodkar&hide_title=true&count_private=true&show_icons=true&theme=radical)
 
 ---
 
